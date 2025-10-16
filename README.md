@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Türkiye İkinci El Araç Fiyat Tahmini - Açıklanabilir Makine Öğrenmesi
 
 ## Proje Hakkında
@@ -34,3 +35,6 @@ pip install -r requirements.txt
 2. `notebooks/` klasöründeki notebook'ları sırayla çalıştırın
 3. Sonuçları `results/` klasöründe inceleyin
 
+=======
+# 2.-El-Ara-Fiyat-Tahmin
+>>>>>>> f1774688bcdcd52366646d54da60277ca7006044
