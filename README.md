@@ -1,6 +1,6 @@
 # Türkiye İkinci El Araç Fiyat Tahmini için Açıklanabilir Makine Öğrenmesi
 
-Bu proje, Türkiye'deki ikinci el araç piyasası için makine öğrenmesi modelleri kullanarak fiyat tahmini yapmayı ve bu tahminlerin hangi faktörlere dayandığını Açıklanabilir Yapay Zeka (Explainable AI - XAI) yöntemleriyle anlaşılır kılmayı amaçlamaktadır. Bu çalışma, bir mezuniyet projesi olarak geliştirilmiştir.
+Bu proje, Türkiye'deki ikinci el araç piyasası için makine öğrenmesi modelleri kullanarak fiyat tahmini yapmayı ve bu tahminlerin hangi faktörlere dayandığını Açıklanabilir Yapay Zeka (Explainable AI - XAI) yöntemleriyle anlaşılır kılmayı amaçlamaktadır.
 
 ##  Projenin Amacı
 
